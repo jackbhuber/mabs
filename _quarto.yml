@@ -1,0 +1,51 @@
+project:
+  type: book
+
+book:
+  title: "Outcomes of Monoclonal Antibody Use in Patients with COVID-19"
+  author:
+    - "Jack B. Huber, PhD"
+    - "Deanna J. Schnitzer, PharmD"
+    - "Hend A. Barry, PharmD, BCPS, BCCP"
+    - "James M. Scanlan, PhD"
+  date: last-modified
+  date-format: long
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - methods.qmd
+    - results.qmd
+    - discussion.qmd
+    - conclusion.qmd
+    # - authors.qmd
+    # - disclosure.qmd
+    # - acknowledgements.qmd
+    - references.qmd
+  navbar:
+      title: "Monoclonal Antibodies"
+      background: primary
+      pinned: true
+  sidebar:
+      logo: "assets/SMC_Prov_logo.png"
+    
+
+bibliography: references.bib
+csl: "assets/american-medical-association-brackets.csl"
+
+format:
+  html:
+    theme: cosmo
+    highlight-style: atom-one
+    code-fold: true
+    code-summary: "Show the code"
+    toc: false
+    
+  pdf:
+    documentclass: scrreprt
+    
+  docx:
+    toc: true
+    number-sections: true
+
+
+

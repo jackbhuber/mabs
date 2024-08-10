@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 341b5b17-d126-4617-a389-00d0beb44824
+      url: 'https://mabs.jackhuber.org'

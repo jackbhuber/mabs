@@ -1,0 +1,3 @@
+# Conclusion {.unnumbered}
+
+From March 2021 through October 2022, monoclonal antibodies emerged as a pivotal factor in significantly reducing the incidence of rehospitalization, mortality, and inpatient admission amongst patients with mild-to-moderate COVID-19 infections in western Washington. Our study contributes real-world evidence to the medical literature, reaffirming the efficacy of monoclonal antibodies as a therapeutic option for outpatients with mild-to-moderate COVID-19 who are at an increased risk of developing severe infection. In light of the evolving landscape of the COVID-19 pandemic, marked by changing variants, the efficacy of individual mAb agents should continue to be vigilantly evaluated.

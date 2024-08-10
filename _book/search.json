@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Outcomes of Monoclonal Antibody Use in Patients with COVID-19",
+    "section": "",
+    "text": "Abstract\nBackground. Since 2021, monoclonal antibody (mAb) therapy has effectively treated patients with mild-to-moderate COVID-19 infections at risk of more severe infections. Clinical researchers have studied mAb effectiveness in reducing hospitalization and mortality. This study further examines the effectiveness of available mAb therapies in reducing rehospitalization and mortality over 19 months in the greater Seattle area.\nMethods. We conducted an IRB-approved retrospective chart review of nonhospitalized adult patients who presented to emergency departments (ED) in the greater Seattle area from March 2021-October 2022 with mild-to-moderate COVID-19 infections. We compared mAbs treated patients to non-treated eligible patients with 28-day rehospitalization and all-cause hospital mortality as primary outcomes Secondary outcomes were rates of inpatient admission, intensive care, and mechanical ventilation. Propensity score matching and logistic regression models were used to control for demographic and comorbidities.\nResults. 21,139 patients were included. MAb treatment was associated with reduced significantly odds of 28-day rehospitalization (adjusted odds ratio [aOR] 0.66, (95% CI 0.49-0.87), P = 0.004), mortality (adjusted odds ratio [aOR] 0.32, (95% CI 0.19-0.51), P &lt; 0.001), and inpatient admissions (adjusted odds ratio [aOR] 0.43, (95% CI 0.31-0.61), P &lt; 0.001).\nConclusions. In a single hospital system, From March 2021 through October 2022, mAbs treatments were associated with reduced rehospitalization, mortality, and inpatient admission in patients with mild-to-moderate COVID-19 infections in western Washington. Our study contributes real world evidence to the medical literature on the efficacy of monoclonal antibodies as a treatment for outpatients with mild-to-moderate COVID-19 at risk of developing severe infection.\nKey Words comorbidities, COVID-19, mild-to-moderate, monoclonal antibody therapy, mortality, rehospitalization",
+    "crumbs": [
+      "Abstract"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Since early 2021, monoclonal antibody (mAb) therapy has emerged as an efficacious intervention for patients with mild-to-moderate COVID-19 infections, particularly those at high risk of progressing to more severe infections. With favorable results from clinical trials, the U.S. Food and Drug Administration (FDA) issued Emergency Use Authorizations for a series of mAb treatments: casirivimab-imdevimab (REGEN-COV) in November 2020 [1,2], bamlanivimab plus etesevimab (BAM+ETE) in February 2021 [3,4], sotrovimab (SOT) in May 2021 [5,6], then bebtelovimab (BEB) in February 2022 [7,8]. As these therapeutic agents became readily available, clinicians and researchers embarked on comprehensive investigations into their impact on hospitalization rates and mortality outcomes. In spring 2021, bamlanivimab was associated with reduced rehospitalizations and, in most cases, mortality within 28 days [9–12]. Later, in the fall of 2021, sotrovimab use also seemed to decrease odds of hospitalization and mortality [13,14]. Later studies of bebtelovimab use, however, found mixed results [15,16].\nMore recent studies have examined the effect of all available mAb agents, along with COVID vaccinations, on patient outcomes over a longer period of the pandemic. These studies have also found decreased odds of rehospitalization and mortality in treated patients across phases of the pandemic [17,18].\nThis study delves deeper into the effectiveness of accessible mAb therapies and their synergistic interactions with COVID-19 vaccinations in mitigating rehospitalization and mortality over a span of 19 months, within the encompassing landscape of greater Seattle in western Washington.\n\n\n\n\n1. O’Shaughnessy J. Emergency use authorization 091. Published online 2022. https://www.fda.gov/media/145610/download\n\n\n2. Weinrich D, Sivapalasingam S, Norton T, Ali S, Bhore R. REGN-COV2, a neutralizing antibody cocktail, in outpatients with covid-19. N Engl J Med. 2021;384(3):238-251. doi:10.1056/NEJMoa2035002\n\n\n3. O’Shaughnessy J. Emergency use authorization 094. Published online 2022. https://www.fda.gov/media/145801/download\n\n\n4. Dougan M, Azizad M, B BM, Gottlieb R. A randomized, placebo-controlled clinical trial of bamlanivimab and etesevimab together in high-risk ambulatory patients with COVID-19 and validation of the prognostic value of persistently high viral load. Clin Infect Dis. 2022;75(1). doi:10.1093/cid/ciab912\n\n\n5. O’Shaughnessy J. Emergency use authorization 100. Published online 2022. https://www.fda.gov/media/149532/download\n\n\n6. Gupta A, Y YGR, Juarez E. Effect of sotrovimab on hospitalization or death among high-risk patients with mild to moderate COVID-19: A randomized clinical trial. JAMA. 2022;327(13). doi:10.1001/jama.2022.2832\n\n\n7. O’Shaughnessy J. Emergency use authorization 111. Published online 2022. https://www.fda.gov/media/156151/download\n\n\n8. Lilly E et al. A study of immune system proteins in participants with mild to moderate COVID-19 illness. Published online 2020. https://clinicaltrials.gov/study/NCT04634409\n\n\n9. Bariola JR, McCreary EK, Wadas RJ, et al. Impact of bamlanivimab monoclonal antibody treatment on hospitalization and mortality among nonhospitalized adults with severe acute respiratory syndrome coronavirus 2 infection. In: Open Forum Infectious Diseases. Vol 8. Oxford University Press US; 2021:ofab254.\n\n\n10. Ganesh R, Pawlowski CF, O’Horo JC, et al. Intravenous bamlanivimab use associates with reduced hospitalization in high-risk patients with mild to moderate COVID-19. The Journal of clinical investigation. 2021;131(19).\n\n\n11. Iqbal L, Terlau TJ, Hernandez A, Woods K, Terlau T, Hernandez AT. Efficacy of bamlanivimab in reducing hospitalization and mortality rates in COVID-19 patients in a rural community. Cureus. 2021;13(7).\n\n\n12. Melton III JD, Wilson K, Blind F, et al. Impact of early versus late administration of bamlanivimab on readmissions in patients with high-risk COVID-19. The American Journal of Emergency Medicine. 2021;50:437-441.\n\n\n13. Aggarwal NR, Beaty LE, Bennett TD, et al. Real-world evidence of the neutralizing monoclonal antibody sotrovimab for preventing hospitalization and mortality in COVID-19 outpatients. The Journal of Infectious Diseases. 2022;226(12):2129-2136.\n\n\n14. Cheng MM, Reyes C, Satram S, et al. Real-world effectiveness of sotrovimab for the early treatment of COVID-19 during SARS-CoV-2 delta and omicron waves in the USA. Infectious Diseases and Therapy. 2023;12(2):607-621.\n\n\n15. Molina KC, Kennerley V, Beaty LE, et al. Real-world evaluation of bebtelovimab effectiveness during the period of COVID-19 omicron variants, including BA. 4/BA. 5. International Journal of Infectious Diseases. 2023;132:34-39.\n\n\n16. Sridhara S, Gungor AB, Erol HK, et al. Lack of effectiveness of bebtelovimab monoclonal antibody among high-risk patients with SARS-cov-2 omicron during BA. 2, BA. 2.12. 1 and BA. 5 subvariants dominated era. Plos one. 2023;18(4):e0279326.\n\n\n17. Wynia MK, Beaty LE, Bennett TD, et al. Real-world evidence of neutralizing monoclonal antibodies for preventing hospitalization and mortality in COVID-19 outpatients. Chest. 2023;163(5):1061-1070.\n\n\n18. Kip KE, McCreary EK, Collins K, et al. Evolving real-world effectiveness of monoclonal antibodies for treatment of COVID-19: A cohort study. Annals of Internal Medicine. 2023;176(4):496-504.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Patient population\nWe conducted a propensity-matched, retrospective, observational study using data from our electronic medical record system (EHR; Epic). This study was approved by the institutional review board of Providence-St. Joseph Health Care, a large multistate healthcare organization. Individual patient consent was not required. The setting for this study was Providence Swedish Health Services, a regional healthcare network in the Puget Sound area of western Washington which includes approximately 1,570 licensed beds. The network includes seven EDs that were host to 221,000 ED visits in 2022.\nWe identified a study population of adult patients who were eligible for monoclonal antibody therapy. Our inclusion criteria were adult outpatients who presented to an ED from March 25, 2021 (the date of the first mAb administration) through October 31, 2022, with mild-to-moderate SARS-CoV-2 infections and at least one of the following active comorbidities: arrythmia, cancer, cardiovascular dysfunction, diabetes, immunosuppression, obesity, renal dysfunction, a respiratory disorder, and/or tobacco use. We excluded patients who lacked all of the aforementioned comorbidities, who received oxygen therapy on their first ED visit, and who were admitted to the hospital on their first ED visit. Baseline demographic data we collected included age, sex, and race. We also collected acuity levels and dates of COVID-19 vaccinations.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "methods.html#outcomes",
+    "href": "methods.html#outcomes",
+    "title": "Methods",
+    "section": "Outcomes",
+    "text": "Outcomes\nOur two primary outcomes were 28-day rehospitalization and all-cause hospital mortality. Secondary outcomes were any days as a hospital inpatient, in intensive care, and/or on mechanical ventilation following discharge from their first ED visit.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "methods.html#variable-definitions",
+    "href": "methods.html#variable-definitions",
+    "title": "Methods",
+    "section": "Variable definitions",
+    "text": "Variable definitions\nWe defined our first primary outcome of 28-day rehospitalization as admission to an ED or an inpatient hospital admission for a COVID-19-related reason within 28 days of discharge from the first ED visit. We operationalized this outcome as a dichotomy in which 1 indicated readmission to an ED or hospital within 28 days and 0 all others. Our second primary outcome of mortality we defined as all-cause hospital mortality, and this we measured as a dichotomy in which 1 indicated all-cause hospital mortality in the time between discharge from the ED visit and the end of the study period, and 0 all others. We defined a COVID-19-related reason as either (1) a positive SARS-CoV-2 lab test undertaken within the hospital encounter, (2) a SARS-CoV-2 infection documented in the ED infectious risk screening, and/or (3) a COVID-19-related ED encounter diagnosis using ICD10 codes (U00, U09, U49, U50, U85, J12.82, M35.81, Z20.822). To account for historical change in the pandemic, we calculated the time in months from the date of the first mAb approval (November 21, 2020) to the date of the hospital encounter (whether an ED visit or inpatient admission). Because our secondary outcomes were skewed, we measured these as dichotomies in which 1 indicated any inpatient days, ICU days, and/or mechanical ventilation days, and 0 all others.\nOur covariates of interest included sex, race, age, comorbidities, mAb treatment status, acuity level, and number of vaccinations at the first ED visit. We coded sex as a dichotomy in which a value of 1 indicated male and 0 female, and race as a dichotomy in which 1 = nonwhite and 0 = white. We dichotomized age into patients below or at least 65 years of age at the time of the hospital encounter. For comorbidities we used ICD10 codes on the patient problem list. We coded each comorbidity as a dichotomy in which 1 indicated active presence within the study period and 0 nonpresence. We identified mAb-treated patients from documented administrations of mAb infusions on the first ED visit. Treatments included bamlanivimab, casirivimab + imdevimab, bamlanivimab + etesevimab, sotrovimab, and bebtelovimab. Acuity level we coded into the following 4-point ordinal scale of increasing urgency: 1 = Non-urgent, 2 = Less urgent, 3 = Urgent, 4 = Emergent or Immediate. Finally, we measured vaccination status as the cumulative count of documented COVID-19 vaccination dates received by the hospital encounter.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "methods.html#statistical-analysis",
+    "href": "methods.html#statistical-analysis",
+    "title": "Methods",
+    "section": "Statistical analysis",
+    "text": "Statistical analysis\nWe first reported baseline characteristics and clinical indicators for the treated and untreated patients both before and after propensity score matching. We reported as descriptive statistics means and standard deviations for continuous variables and frequencies and percentages for categorical variables.\nWe estimated propensity scores for receipt of mAb therapy using the 1:1 nearest neighbor method without replacement with logistic regression. We matched on the factors shown in the descriptive analyses to be statistically significant differences between the treated and untreated patients in the full unmatched sample. These factors included age, race, immunosuppression, renal disorder, respiratory disorder, tobacco use, months into availability of mAb treatment, acuity level, and number of vaccinations. To estimate the treatment effect and its standard error, we fit logistic regression models for our outcomes on mAb treatment and any covariates remaining unbalanced after propensity score matching. We conducted all statistical analyses in RStudio [1]. For propensity score matching we used the MatchIt package [2].\n\n\n\n\n1. RStudio Team. RStudio: Integrated Development Environment for r. RStudio, PBC; 2022. http://www.rstudio.com/\n\n\n2. Ho DE, Imai K, King G, Stuart EA. MatchIt: Nonparametric preprocessing for parametric causal inference. Journal of Statistical Software. 2011;42:1-28. doi:10.18637/jss.v042.i08",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Results",
+    "section": "",
+    "text": "Characteristics of the mAb patients in the primary cohort\nIn the propensity-matched cohort, mAb-treated patients reflected characteristics consistent with patients at a high risk for progression to severe COVID-19 (Table 1). Among patients who received mAb therapy (n = 1,349), 805 (60%) were aged 65 years or older, 387 (29%) were nonwhite, 136 (10%) were immunosuppressed, 275 (20%) suffered from renal disorders, and 452 (34%) suffered from respiratory disorders.\nTable 1. Patient Characteristics and Covariate Balance Before and After Propensity Matching",
+    "crumbs": [
+      "Results"
+    ]
+  },
+  {
+    "objectID": "results.html#characteristics-of-the-mab-patients-in-the-primary-cohort",
+    "href": "results.html#characteristics-of-the-mab-patients-in-the-primary-cohort",
+    "title": "Results",
+    "section": "",
+    "text": "Characteristic\nBefore propensity matching\nAfter propensity matching\n\n\nTreated, N = 1,3491\nUntreated, N = 19,7901\np2\nTreated, N = 1,3491\nUntreated, N = 1,3491\np2\n\n\n\n\nMale\n636 (47%)\n8,273 (42%)\n&lt;0.001\n636 (47%)\n614 (46%)\n0.4\n\n\nNonwhite\n387 (29%)\n7,743 (39%)\n&lt;0.001\n387 (29%)\n367 (27%)\n0.4\n\n\nAge 65+\n805 (60%)\n7,286 (37%)\n&lt;0.001\n805 (60%)\n839 (62%)\n0.2\n\n\nArrythmia\n305 (23%)\n3,150 (16%)\n&lt;0.001\n305 (23%)\n296 (22%)\n0.7\n\n\nCancer\n186 (14%)\n1,801 (9.1%)\n&lt;0.001\n186 (14%)\n174 (13%)\n0.5\n\n\nCardiovascular disease\n777 (58%)\n8,965 (45%)\n&lt;0.001\n777 (58%)\n744 (55%)\n0.2\n\n\nDiabetes\n250 (19%)\n2,814 (14%)\n&lt;0.001\n250 (19%)\n233 (17%)\n0.4\n\n\nImmunosuppressed\n136 (10%)\n603 (3.0%)\n&lt;0.001\n136 (10%)\n140 (10%)\n0.8\n\n\nObese\n522 (39%)\n8,679 (44%)\n&lt;0.001\n522 (39%)\n537 (40%)\n0.6\n\n\nRenal disease\n275 (20%)\n2,460 (12%)\n&lt;0.001\n275 (20%)\n255 (19%)\n0.3\n\n\nRespiratory disease\n452 (34%)\n7,040 (36%)\n0.12\n452 (34%)\n412 (31%)\n0.10\n\n\nTobacco user\n47 (3.5%)\n2,206 (11%)\n&lt;0.001\n47 (3.5%)\n34 (2.5%)\n0.14\n\n\nMonths since mAb approval\n15 (5)\n13 (5)\n&lt;0.001\n15 (5)\n14 (5)\n0.001\n\n\nAcuity level\n\n\n&lt;0.001\n\n\n0.13\n\n\n    1\n5 (0.4%)\n179 (0.9%)\n\n5 (0.4%)\n14 (1.0%)\n\n\n\n    2\n173 (13%)\n3,168 (16%)\n\n173 (13%)\n156 (12%)\n\n\n\n    3\n923 (68%)\n11,756 (59%)\n\n923 (68%)\n916 (68%)\n\n\n\n    4\n248 (18%)\n4,687 (24%)\n\n248 (18%)\n263 (19%)\n\n\n\nCOVID vaccinations\n\n\n&lt;0.001\n\n\n0.040\n\n\n    0\n1,298 (96%)\n18,256 (92%)\n\n1,298 (96%)\n1,299 (96%)\n\n\n\n    1\n14 (1.0%)\n420 (2.1%)\n\n14 (1.0%)\n19 (1.4%)\n\n\n\n    2\n4 (0.3%)\n408 (2.1%)\n\n4 (0.3%)\n8 (0.6%)\n\n\n\n    3\n9 (0.7%)\n489 (2.5%)\n\n9 (0.7%)\n14 (1.0%)\n\n\n\n    4\n24 (1.8%)\n217 (1.1%)\n\n24 (1.8%)\n9 (0.7%)\n\n\n\n\n1 n (%); Mean (SD)\n\n\n2 Pearson’s Chi-squared test; Wilcoxon rank sum test",
+    "crumbs": [
+      "Results"
+    ]
+  },
+  {
+    "objectID": "results.html#primary-and-secondary-outcomes",
+    "href": "results.html#primary-and-secondary-outcomes",
+    "title": "Results",
+    "section": "Primary and secondary outcomes",
+    "text": "Primary and secondary outcomes\nThe crude rates of rehospitalization, mortality, and inpatient outcomes are shown in Table 2. During the study period, the incidence of 28-day hospitalization in our primary matched cohort was 9.4% (n = 127/1,349) for untreated patients compared to 6.3% (n = 85/1,349) among mAb-treated patients. The mortality rate for untreated patients was 5.3% (n = 41/1,349) compared to 1.7% (n = 23/1,349) for mAb-treated patients. The rate of inpatient admission for untreated patients was 8.6% (n = 116/1,349) compared to 3.8% (n = 51/1,349) for mAb-treated patients. Rates of ICU and mechanical ventilation did not differ significantly by treatment group.\nTable 2. Primary and Secondary Outcomes for Primary Matched Cohort\n\n\n\n\n\n\nCharacteristic\nTreated, N = 1,3491\nUntreated, N = 1,3491\np2\n\n\n\n\nPrimary outcomes\n\n\n28-Day Readmission\n85 (6.3%)\n127 (9.4%)\n0.003\n\n\nMortality\n23 (1.7%)\n71 (5.3%)\n&lt;0.001\n\n\nSecondary outcomes\n\n\nAny days as hospital inpatient\n51 (3.8%)\n116 (8.6%)\n&lt;0.001\n\n\nAny days in ICU\n10 (0.7%)\n20 (1.5%)\n0.066\n\n\nAny days on ventilator\n4 (0.3%)\n4 (0.3%)\n&gt;0.9\n\n\n\n1 n (%)\n\n\n2 Pearson’s Chi-squared test\n\n\n\n\nThe adjusted analyses are presented in Table 3. Treatment with mAb was associated with reduced odds of 28-day rehospitalization (adjusted odds ratio [aOR] 0.66, [95% confidence interval (CI)] 0.49-0.87), P = 0.004). Mortality rates also differed significantly between the two groups. Treatment with mAb was associated with reduced odds of mortality (adjusted odds ratio [aOR] 0.32, [95% confidence interval (CI)] 0.19-0.51), P &lt; 0.001). Treatment was also associated with reduced odds of inpatient admissions (adjusted odds ratio [aOR] 0.43, [95% confidence interval (CI)] 0.31-0.61), P &lt; 0.001).1\nTable 3. Adjusted Odds Ratios\n\n\n\n\nCharacteristic\n28-Day Rehospitalization\nMortality\nInpatient\n\n\nOR1\n95% CI1\np\nOR1\n95% CI1\np\nOR1\n95% CI1\np\n\n\n\n\nReceived mAb\n0.66\n0.49, 0.87\n0.004\n0.32\n0.19, 0.51\n&lt;0.001\n0.43\n0.31, 0.61\n&lt;0.001\n\n\nMonths since mAb approval\n0.97\n0.94, 1.00\n0.038\n0.96\n0.92, 1.00\n0.080\n0.93\n0.90, 0.96\n&lt;0.001\n\n\nCOVID vaccinations\n1.16\n0.90, 1.42\n0.2\n1.03\n0.63, 1.44\n&gt;0.9\n1.05\n0.74, 1.37\n0.8\n\n\n\n1 OR = Odds Ratio, CI = Confidence Interval",
+    "crumbs": [
+      "Results"
+    ]
+  },
+  {
+    "objectID": "results.html#footnotes",
+    "href": "results.html#footnotes",
+    "title": "Results",
+    "section": "",
+    "text": "In these adjusted analyses, months since mAb approval of the first ED visit remained a statistically significant covariate after controlling for mAb treatment and number of COVID vaccinations. Months since mAb approval was associated with significantly but slightly reduced odds of rehospitalization (adjusted odds ratio [aOR] 0.97, [95% confidence interval (CI)] 0.94-1.00), P = 0.038) and inpatient admissions (adjusted odds ratio [aOR] 0.93, [95% confidence interval (CI)] 0.90-0.96), P &lt; 0.001).↩︎",
+    "crumbs": [
+      "Results"
+    ]
+  },
+  {
+    "objectID": "discussion.html",
+    "href": "discussion.html",
+    "title": "Discussion",
+    "section": "",
+    "text": "Strengths\nThis study has several strengths by virtue of occurring within a single hospital system. All of the data are collected in a limited geographic area, thereby limiting regional differences, potential differences in strain exposure, differences in ED guidelines or hospital procedures, and differences in ED access to monoclonal treatment over the course of the pandemic. Additionally, propensity matching succeeded in rendering an untreated sample that was in many respects virtually identical to the treated sample.",
+    "crumbs": [
+      "Discussion"
+    ]
+  },
+  {
+    "objectID": "discussion.html#limitations",
+    "href": "discussion.html#limitations",
+    "title": "Discussion",
+    "section": "Limitations",
+    "text": "Limitations\nThis study is limited in several ways. First, given the retrospective nature of this study, which relied entirely on pre-existing information documented in the electronic medical record, all eligibility for monoclonal antibodies were based on the provider who evaluated the patient and were there for not double checked for accuracy. Patients who may have qualified for a monoclonal antibody were not offered treatment based on the provider’s discretion.",
+    "crumbs": [
+      "Discussion"
+    ]
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "Conclusion",
+    "section": "",
+    "text": "From March 2021 through October 2022, monoclonal antibodies emerged as a pivotal factor in significantly reducing the incidence of rehospitalization, mortality, and inpatient admission amongst patients with mild-to-moderate COVID-19 infections in western Washington. Our study contributes real-world evidence to the medical literature, reaffirming the efficacy of monoclonal antibodies as a therapeutic option for outpatients with mild-to-moderate COVID-19 who are at an increased risk of developing severe infection. In light of the evolving landscape of the COVID-19 pandemic, marked by changing variants, the efficacy of individual mAb agents should continue to be vigilantly evaluated.",
+    "crumbs": [
+      "Conclusion"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "1. O’Shaughnessy J. Emergency use authorization\n091. Published online 2022. https://www.fda.gov/media/145610/download\n\n\n2. Weinrich D, Sivapalasingam S, Norton T, Ali S,\nBhore R. REGN-COV2, a neutralizing antibody cocktail, in outpatients\nwith covid-19. N Engl J Med. 2021;384(3):238-251. doi:10.1056/NEJMoa2035002\n\n\n3. O’Shaughnessy J. Emergency use authorization\n094. Published online 2022. https://www.fda.gov/media/145801/download\n\n\n4. Dougan M, Azizad M, B BM, Gottlieb R. A\nrandomized, placebo-controlled clinical trial of bamlanivimab and\netesevimab together in high-risk ambulatory patients with COVID-19 and\nvalidation of the prognostic value of persistently high viral load.\nClin Infect Dis. 2022;75(1). doi:10.1093/cid/ciab912\n\n\n5. O’Shaughnessy J. Emergency use authorization\n100. Published online 2022. https://www.fda.gov/media/149532/download\n\n\n6. Gupta A, Y YGR, Juarez E. Effect of sotrovimab\non hospitalization or death among high-risk patients with mild to\nmoderate COVID-19: A randomized clinical trial. JAMA.\n2022;327(13). doi:10.1001/jama.2022.2832\n\n\n7. O’Shaughnessy J. Emergency use authorization\n111. Published online 2022. https://www.fda.gov/media/156151/download\n\n\n8. Lilly E et al. A study of immune system\nproteins in participants with mild to moderate COVID-19 illness.\nPublished online 2020. https://clinicaltrials.gov/study/NCT04634409\n\n\n9. Bariola JR, McCreary EK, Wadas RJ, et al.\nImpact of bamlanivimab monoclonal antibody treatment on hospitalization\nand mortality among nonhospitalized adults with severe acute respiratory\nsyndrome coronavirus 2 infection. In: Open Forum Infectious\nDiseases. Vol 8. Oxford University Press US; 2021:ofab254.\n\n\n10. Ganesh R, Pawlowski CF, O’Horo JC, et al.\nIntravenous bamlanivimab use associates with reduced hospitalization in\nhigh-risk patients with mild to moderate COVID-19. The Journal of\nclinical investigation. 2021;131(19).\n\n\n11. Iqbal L, Terlau TJ, Hernandez A, Woods K,\nTerlau T, Hernandez AT. Efficacy of bamlanivimab in reducing\nhospitalization and mortality rates in COVID-19 patients in a rural\ncommunity. Cureus. 2021;13(7).\n\n\n12. Melton III JD, Wilson K, Blind F, et al. Impact\nof early versus late administration of bamlanivimab on readmissions in\npatients with high-risk COVID-19. The American Journal of Emergency\nMedicine. 2021;50:437-441.\n\n\n13. Aggarwal NR, Beaty LE, Bennett TD, et al.\nReal-world evidence of the neutralizing monoclonal antibody sotrovimab\nfor preventing hospitalization and mortality in COVID-19 outpatients.\nThe Journal of Infectious Diseases.\n2022;226(12):2129-2136.\n\n\n14. Cheng MM, Reyes C, Satram S, et al. Real-world\neffectiveness of sotrovimab for the early treatment of COVID-19 during\nSARS-CoV-2 delta and omicron waves in the USA. Infectious Diseases\nand Therapy. 2023;12(2):607-621.\n\n\n15. Molina KC, Kennerley V, Beaty LE, et al.\nReal-world evaluation of bebtelovimab effectiveness during the period of\nCOVID-19 omicron variants, including BA. 4/BA. 5. International\nJournal of Infectious Diseases. 2023;132:34-39.\n\n\n16. Sridhara S, Gungor AB, Erol HK, et al. Lack of\neffectiveness of bebtelovimab monoclonal antibody among high-risk\npatients with SARS-cov-2 omicron during BA. 2, BA. 2.12. 1 and BA. 5\nsubvariants dominated era. Plos one. 2023;18(4):e0279326.\n\n\n17. Wynia MK, Beaty LE, Bennett TD, et al.\nReal-world evidence of neutralizing monoclonal antibodies for preventing\nhospitalization and mortality in COVID-19 outpatients. Chest.\n2023;163(5):1061-1070.\n\n\n18. Kip\nKE, McCreary EK, Collins K, et al. Evolving real-world effectiveness of\nmonoclonal antibodies for treatment of COVID-19: A cohort study.\nAnnals of Internal Medicine. 2023;176(4):496-504.\n\n\n19. RStudio Team. RStudio: Integrated\nDevelopment Environment for r. RStudio, PBC; 2022. http://www.rstudio.com/\n\n\n20. Ho\nDE, Imai K, King G, Stuart EA. MatchIt: Nonparametric\npreprocessing for parametric causal inference. Journal of\nStatistical Software. 2011;42:1-28. doi:10.18637/jss.v042.i08",
+    "crumbs": [
+      "References"
+    ]
+  }
+]

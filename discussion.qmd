@@ -1,0 +1,15 @@
+# Discussion {.unnumbered}
+
+This study evaluated the effect of mAb therapy for outpatient use with mild-to-moderate COVID-19 on 28-day rehospitalization, all-cause hospital mortality, and inpatient admissions over a 19-month period in a major metropolitan area in western Washington. In a sample of propensity-matched treated and untreated patients, mAb treatment was associated with significantly reduced odds of 28-day rehospitalization, all-cause hospital mortality, and inpatient admissions. These findings are consistent with the literature on mAbs in real-world settings and contribute further real-world evidence of the effectiveness of mAbs in treating outpatients with mild-to-moderate COVID-19 infections.
+
+While not the primary focus of this paper, it is illuminating to look at the initial differences between treated and non-treated patients with an eye to understanding physicians’ decision making in these cases. Conspicuously, patients who were immunosuppressed, were roughly over four times more likely to receive monoclonal treatment. Additionally, treated patients were likely to be older, have cancer and cardiovascular disease more frequently, and had fewer vaccinations. So clearly physicians were targeting the most vulnerable ED patients for monoclonal antibody treatment.
+
+Another thought-provoking aspect of this paper is our focus on patients with mild to moderate COVID-19 symptoms. While these patients had reported to an ED for treatment, they were not hospitalized. We can therefore assume that the treating physicians believed their patients had milder instances of COVID-19 infections. This would suggest that our results might underestimate monoclonal treatment benefits with more severe COVID-19 infections. Although plausible, we are unable to examine this possibility with this data set.
+
+## Strengths 
+
+This study has several strengths by virtue of occurring within a single hospital system. All of the data are collected in a limited geographic area, thereby limiting regional differences, potential differences in strain exposure, differences in ED guidelines or hospital procedures, and differences in ED access to monoclonal treatment over the course of the pandemic. Additionally, propensity matching succeeded in rendering an untreated sample that was in many respects virtually identical to the treated sample.
+
+## Limitations
+
+This study is limited in several ways. First, given the retrospective nature of this study, which relied entirely on pre-existing information documented in the electronic medical record, all eligibility for monoclonal antibodies were based on the provider who evaluated the patient and were there for not double checked for accuracy. Patients who may have qualified for a monoclonal antibody were not offered treatment based on the provider’s discretion.
